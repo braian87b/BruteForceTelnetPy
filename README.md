@@ -13,6 +13,8 @@ Sample usage:
 credentials.txt may have pair of user/password or just a list of password (some devices just ask for a password only)
 see sample_credentials_only_passwords.txt and sample_credentials_user_password.txt
 
+Why I didn't use THC Hydra?
+
 A basic pseudo OCR-like was implemented in order to bypass Verification code protection found on some device (ADB DA2210)
 
     ====================================================
