@@ -1,7 +1,7 @@
 # BruteForceTelnetPy
 Brute Force Telnet Login
 
-TL;DR: Some time ago I had a ADSL Modem from Argentinean ISP Company (Telecom ARNET) Model: ADB DA 2210 or DA-2210, and I wanted to recover the telnet password, but in each try the telnet drops a pseudo Captcha made of chars on the screen... so... I writed an script to be able to recognize the digits and doing that be able to brute force the password... It worked just fine so I upload it here! 
+TL;DR: Some time ago I had an ADSL Modem from Argentinean ISP Company (Telecom ARNET) Model: ADB DA 2210 or DA-2210, and I wanted to recover the telnet password, but in each try the telnet drops a pseudo Captcha made of chars on the screen... so... I writed an script to be able to recognize the digits and doing that be able to brute force the password... It worked just fine so I upload it here! 
 
 Keywords: Recuperar contraseña telnet Modem ARNET ADB 2210
 
